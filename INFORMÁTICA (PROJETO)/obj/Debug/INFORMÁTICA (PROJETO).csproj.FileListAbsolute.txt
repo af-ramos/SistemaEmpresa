@@ -1,0 +1,87 @@
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe.config
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).pdb
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csprojAssemblyReference.cache
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Especialidade.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Properties.Resources.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.GenerateResource.cache
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.CoreCompileInputs.cache
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).exe
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).pdb
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe.config
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).pdb
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Especialidade.resources
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario.resources
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Properties.Resources.resources
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).exe
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).pdb
+C:\Users\Aluno\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csprojResolveAssemblyReference.cache
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Supervisor.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Cliente.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Setor.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario_Especialidade.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Projeto.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario_Projeto.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Home.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Consulta.resources
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe.manifest
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).application
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).exe.manifest
+C:\Users\arfrr\Desktop\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).application
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe.config
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe.manifest
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).application
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).pdb
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Cliente.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Consulta.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Especialidade.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario_Especialidade.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario_Projeto.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Home.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Projeto.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Properties.Resources.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Setor.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Supervisor.resources
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).exe.manifest
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).application
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).exe
+C:\Users\Aluno\Downloads\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).pdb
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe.config
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe.manifest
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).application
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).exe
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\INFORMÁTICA (PROJETO).pdb
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\PdfSharp.Charting.dll
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\PdfSharp.dll
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\PdfSharp.xml
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\PdfSharp.Charting.xml
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\de\PdfSharp.resources.dll
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csprojAssemblyReference.cache
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Cliente.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Consulta.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Especialidade.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario_Especialidade.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Funcionario_Projeto.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Home.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Projeto.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Properties.Resources.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Setor.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA__PROJETO_.Supervisor.resources
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.GenerateResource.cache
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.CoreCompileInputs.cache
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).exe.manifest
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).application
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).csproj.CopyComplete
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).exe
+C:\Projetos C#\INFORMÁTICA (PROJETO)\INFORMÁTICA (PROJETO)\obj\Debug\INFORMÁTICA (PROJETO).pdb
